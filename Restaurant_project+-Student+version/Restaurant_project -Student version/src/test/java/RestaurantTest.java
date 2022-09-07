@@ -64,6 +64,8 @@ class RestaurantTest {
                 ()->restaurant.removeFromMenu("French fries"));
     }
     //<<<<<<<<<<<<<<<<<<<<<<<MENU>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+    //git practice commit
+    
 
     @Test
     public void total_order_value_should_be_returned(){
